@@ -1,0 +1,20 @@
+
+/* styles.css */
+@media (min-width: 550px) { 
+    h1 {
+        color: pink;
+    }
+    
+    .target-by-class {
+        border: 5px solid blue;
+        border-radius: 5px;
+        padding: 10px;
+    }
+    
+    #target-by-id {
+        margin-top: 10px;
+        padding: 5px;
+        background-color: aqua;
+    }
+}
+
